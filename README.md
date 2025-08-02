@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="100%" />
-
 # 👋 Hi, I'm Preeti Gautam
 
 🎓 MCA Student @ MANIT Bhopal  
