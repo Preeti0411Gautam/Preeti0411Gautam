@@ -11,8 +11,7 @@
 
 ## 💡 About Me
 
-I'm a passionate developer who loves turning ideas into real-world applications. I work with MERN stack and explore the future of tech through Blockchain & Web3.
-
+I'm a passionate developer who thrives on turning ideas into impactful digital solutions. With hands-on experience in the MERN stack, I build full-stack web applications and actively explore the cutting edge of technology through Blockchain and Web3. My focus is on writing clean, scalable code and solving real-world problems with tech.
 ---
 
 ## 🛠 Tech Stack
