@@ -1,92 +1,76 @@
-# 👋 Hi, I'm Preeti Gautam
+<h1 align="center">👋 Hi, I'm Preeti Gautam</h1>
 
-🎓 MCA Student @ MANIT Bhopal  
-💻 Full-Stack Developer | 🌐 Web3 Enthusiast  
-📍 Prayagraj | 📧 preetigautam0411@gmail.com  
-🌐 [Portfolio](https://gautam-preeti-411.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/preeti-gautam-704179137/)
+<p align="center">
+  🎓 MCA @ MANIT Bhopal &nbsp;|&nbsp; 💻 Full-Stack Developer & Web3 Enthusiast <br />
+  📍 Prayagraj, India &nbsp;|&nbsp; 📫 <a href="mailto:preetigautam0411@gmail.com">preetigautam0411@gmail.com</a> <br />
+  🌐 <a href="https://gautam-preeti-411.vercel.app/">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/preeti-gautam-704179137/">LinkedIn</a>
+</p>
 
 ---
 
 ## 💡 About Me
 
-I'm a passionate developer who loves turning ideas into real-world applications. From crafting clean UIs with React to exploring decentralized tech with Solidity & IPFS — I'm always building and learning.
+I'm a passionate developer who loves turning ideas into real-world applications. I work with MERN stack and explore the future of tech through Blockchain & Web3.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👩‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-%23212121.svg?style=flat&logo=solidity)
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-
-### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
-
-### 🛢️ Database & Storage  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?style=flat&logo=ipfs&logoColor=white)
-
-### 🔗 Blockchain Tools  
-![Ethers.js](https://img.shields.io/badge/Ethers.js-%23212121.svg?style=flat&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23f7df1e.svg?style=flat&logo=ethereum&logoColor=black)
-![Pinata](https://img.shields.io/badge/Pinata-yellow.svg?style=flat&logo=pinboard&logoColor=black)
-
-### 🧰 Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Winston](https://img.shields.io/badge/Winston-000000?style=flat&logo=winston&logoColor=white)
+<table>
+<tr>
+  <td><b>Languages</b></td>
+  <td><img src="https://img.shields.io/badge/Java-orange?logo=java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity" /></td>
+</tr>
+<tr>
+  <td><b>Frontend</b></td>
+  <td><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><b>Backend</b></td>
+  <td><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><b>Database</b></td>
+  <td><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><b>Blockchain</b></td>
+  <td><img src="https://img.shields.io/badge/Ethers.js-4E7DB0?logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-F7DF1E?logo=ethereum&logoColor=black" /> <img src="https://img.shields.io/badge/Pinata-FCCA46?logo=pinata&logoColor=black" /></td>
+</tr>
+<tr>
+  <td><b>Tools</b></td>
+  <td><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Winston-000000?logo=winston&logoColor=white" /></td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 [BillStack](https://github.com/Preeti0411Gautam/BillStack)  
-A bill & expense manager with due date reminders, payments, and analytics.  
+### 📦 [BillStack](https://github.com/Preeti0411Gautam/BillStack)
+> A full-stack bill & expense manager with due date reminders, charts & file uploads.  
 🔗 [Live Demo](https://bill-stack.vercel.app)
 
-### 🏥 [LifeLedger](https://github.com/Preeti0411Gautam/Electronic-Medical-Records)  
-Decentralized EMR system built with React, Solidity, and IPFS.  
+### 🏥 [LifeLedger](https://github.com/Preeti0411Gautam/Electronic-Medical-Records)
+> Decentralized EMR system using React, Solidity, IPFS.  
 🔗 [Live Demo](https://electronic-medical-records-alpha.vercel.app)
 
 ---
 
-## 💼 Experience
 
-**Frontend Intern** @ CSRBOX (IBM SkillsBuild)  
-*Jun 2024 – Aug 2024*  
-- Built responsive UIs using React.js, HTML, CSS, JS  
-- Completed IBM-certified training in frontend development
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preeti0411Gautam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Preeti0411Gautam&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Preeti0411Gautam&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Preeti0411Gautam&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0411Gautam&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0411Gautam&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preeti0411Gautam&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-⭐ *Always open to building, learning & collaborating!*
+⭐ _Let's connect, collaborate, and build something amazing!_
