@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Preeti Gautam
 
-🎓 **MCA Candidate at MANIT Bhopal** | 💻 Passionate Full-Stack Developer | 🔗 Web3 Enthusiast  
+🎓 **MCA Student at MANIT Bhopal** | 💻 Passionate Full-Stack Developer | 🔗 Web3 Enthusiast  
 📍 Naini, Prayagraj | 📧 preetigautam0411@gmail.com | 🌐 [Portfolio](https://gautam-preeti-411.vercel.app/)
 
 ---
@@ -18,8 +18,8 @@ I'm a dedicated and curious developer, currently pursuing my Master's in Compute
 - **Backend:** Node.js, Express.js  
 - **Blockchain:** Solidity, Ethers.js, Hardhat  
 - **Database:** MongoDB, MySQL  
-- **Storage & Infra:** Cloudinary, IPFS, Docker  
-- **Tools:** Git, Postman, Pinata, Prometheus (prom-client), Winston
+- **Storage** Cloudinary, IPFS
+- **Tools:** Git, Postman, Pinata, Winston
 
 ---
 
@@ -46,6 +46,7 @@ I'm a dedicated and curious developer, currently pursuing my Master's in Compute
 - Integrated **Ethers.js** for on-chain communication.
 - Used **IPFS + Pinata** for decentralized file storage.
 
+🔗 [Live Demo](https://electronic-medical-records-alpha.vercel.app)
 ---
 
 ## 🧑‍💻 Experience
