@@ -1,78 +1,95 @@
+<!-- Banner -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="100%" />
+
 # 👋 Hi, I'm Preeti Gautam
 
-🎓 **MCA Student at MANIT Bhopal** | 💻 Full-Stack Developer | 🔗 Web3 Enthusiast  
-📍 Naini, Prayagraj | 📧 preetigautam0411@gmail.com | 🌐 [Portfolio](https://gautam-preeti-411.vercel.app/)
+🎓 MCA Student @ MANIT Bhopal  
+💻 Full-Stack Developer | 🌐 Web3 Enthusiast  
+📍 Prayagraj | 📧 preetigautam0411@gmail.com  
+🌐 [Portfolio](https://gautam-preeti-411.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/preeti-gautam-704179137/)
 
 ---
 
 ## 💡 About Me
 
-I'm a passionate and curious developer currently pursuing my Master's in Computer Applications from MANIT Bhopal. I love building impactful, real-world solutions using the **MERN stack**, and I’m deeply interested in the future of the internet through **blockchain technologies** like **Solidity** and **IPFS**.
+I'm a passionate developer who loves turning ideas into real-world applications. From crafting clean UIs with React to exploring decentralized tech with Solidity & IPFS — I'm always building and learning.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Java, JavaScript, Solidity, SQL  
-- **Frontend:** React.js, Tailwind CSS, Redux  
-- **Backend:** Node.js, Express.js  
-- **Blockchain:** Solidity, Ethers.js, Hardhat  
-- **Databases:** MongoDB, MySQL  
-- **Storage:** Cloudinary, IPFS  
-- **Tools:** Git, Postman, Pinata, Winston
+### 👩‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-%23212121.svg?style=flat&logo=solidity)
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+
+### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+
+### 🛢️ Database & Storage  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?style=flat&logo=ipfs&logoColor=white)
+
+### 🔗 Blockchain Tools  
+![Ethers.js](https://img.shields.io/badge/Ethers.js-%23212121.svg?style=flat&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-%23f7df1e.svg?style=flat&logo=ethereum&logoColor=black)
+![Pinata](https://img.shields.io/badge/Pinata-yellow.svg?style=flat&logo=pinboard&logoColor=black)
+
+### 🧰 Tools & DevOps  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Winston](https://img.shields.io/badge/Winston-000000?style=flat&logo=winston&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📦 [BillStack – Bill Management & Expense Tracking](https://github.com/Preeti0411Gautam/BillStack)
-> A web application to manage bills, track monthly expenses, and get reminders for due dates.
-
-- Built using **React.js**, **Tailwind CSS**, and **Redux** with a user-friendly interface.
-- RESTful backend with **Node.js**, **Express.js**, and **MongoDB**.
-- Integrated **Cloudinary** for secure file uploads.
-- Implemented **notifications**, **transactions**, and **expense history**.
-- Used **Prometheus** and **Winston** for performance monitoring and logging.
-- Dockerized for deployment readiness.
-
+### 📦 [BillStack](https://github.com/Preeti0411Gautam/BillStack)  
+A bill & expense manager with due date reminders, payments, and analytics.  
 🔗 [Live Demo](https://bill-stack.vercel.app)
 
----
-
-### 🏥 [LifeLedger – EMR using Blockchain](https://github.com/Preeti0411Gautam/Electronic-Medical-Records)
-> A decentralized system for securely managing electronic medical records.
-
-- Developed role-based dashboards using **React.js** for Patients and Doctors.
-- Smart contracts written in **Solidity**, tested via **Hardhat**.
-- Used **Ethers.js** for blockchain interaction.
-- Stored medical files on **IPFS** via **Pinata** for decentralized access.
-
+### 🏥 [LifeLedger](https://github.com/Preeti0411Gautam/Electronic-Medical-Records)  
+Decentralized EMR system built with React, Solidity, and IPFS.  
 🔗 [Live Demo](https://electronic-medical-records-alpha.vercel.app)
 
 ---
 
-## 🧑‍💻 Experience
+## 💼 Experience
 
-### Frontend Web Development Intern @ CSRBOX (IBM SkillsBuild)  
-*June 2024 – August 2024*  
-- Designed responsive UIs using **React.js**, **HTML**, **CSS**, and **JavaScript**.  
-- Completed structured training in frontend technologies and best practices.
-
----
-
-## 🏆 Achievements & Leadership
-
-- 🌟 Finalist – **WebBuzz 2024** Web Development Challenge by CypherSage.  
-- 💰 Treasurer, **MCA Matrix Club @ MANIT**, managing budgets and organizing events.
+**Frontend Intern** @ CSRBOX (IBM SkillsBuild)  
+*Jun 2024 – Aug 2024*  
+- Built responsive UIs using React.js, HTML, CSS, JS  
+- Completed IBM-certified training in frontend development
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Stats
 
-- 📧 [Email](mailto:preetigautam0411@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/preeti-gautam-704179137/)  
-- 🌐 [Portfolio](https://gautam-preeti-411.vercel.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Preeti0411Gautam&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Preeti0411Gautam&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti0411Gautam&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-> ⭐ *Always open to learning, collaborating, and building meaningful tech solutions!*
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preeti0411Gautam&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+⭐ *Always open to building, learning & collaborating!*
