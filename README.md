@@ -1,14 +1,5 @@
 <h1 align="center">👋 Hi, I'm Preeti Gautam</h1>
 
-<p>
-  🎓 MCA @ MANIT Bhopal &nbsp;|&nbsp; 💻 Full-Stack Developer & Web3 Enthusiast <br />
-  📍 Prayagraj, India &nbsp;|&nbsp; 📫 <a href="mailto:preetigautam0411@gmail.com">preetigautam0411@gmail.com</a> <br />
-  🌐 <a href="https://gautam-preeti-411.vercel.app/">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/preeti-gautam-704179137/">LinkedIn</a>
-</p>
-
----
-
 ## 💡 About Me
 
 I'm a passionate developer who thrives on turning ideas into impactful digital solutions. With hands-on experience in the MERN stack, I build full-stack web applications and actively explore the cutting edge of technology through Blockchain and Web3. My focus is on writing clean, scalable code and solving real-world problems with tech.
