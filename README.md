@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Preeti Gautam</h1>
 
-<p align="center">
+<p>
   🎓 MCA @ MANIT Bhopal &nbsp;|&nbsp; 💻 Full-Stack Developer & Web3 Enthusiast <br />
   📍 Prayagraj, India &nbsp;|&nbsp; 📫 <a href="mailto:preetigautam0411@gmail.com">preetigautam0411@gmail.com</a> <br />
   🌐 <a href="https://gautam-preeti-411.vercel.app/">Portfolio</a> • 
